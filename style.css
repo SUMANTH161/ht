@@ -1,0 +1,73 @@
+#hero{
+    background-image: url(torshov.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 500px;
+}
+body{
+    text-align: center;
+}
+.te{
+    color: white;
+    background-color: aqua;
+    padding: 2px 8px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+.container{
+    height: 260px;
+    padding: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items:center;
+}
+.th{
+    margin-top: 0%;
+    color: white;
+    background-color: blue;
+    padding: 2px 8px;
+    border-radius: 5px;
+}
+.act{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-top: 20px;
+}
+.theatre{
+    border-radius: 50px;
+    width: 50px;
+}
+.sports{
+    border-radius: 50px;
+    width: 50px;
+}
+.park{
+    border-radius: 50px;
+    width: 50px;
+}
+footer {
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.me {
+    width: 150px;
+}
+
+.card {
+    text-align: center;
+    background-color: skyblue;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 10px solid #d8cefe;
+}
+.border-blue{
+    border: 100px solid #ddebf8;
+}
+   
